@@ -33,22 +33,14 @@
     {
       "name": "hxcpp",
       "type": "haxelib",
-      "version": null
     },
     {
       "name": "tjson",
       "type": "haxelib",
-      "version": null
-    },
-    {
-      "name": "hxjsonast",
-      "type": "haxelib",
-      "version": null
     },
     {
       "name": "hxCodec",
-      "type": "haxelib",
-      "version": null
+      "type": "haxelib"
     },
     {
       "name": "hscript",
@@ -57,20 +49,17 @@
     },
     {
       "name": "hxcpp-debug-server",
-      "type": "haxelib",
-      "version": null
+      "type": "haxelib"
     },
     {
       "name": "discord_rpc",
       "type": "git",
-      "dir": null,
       "ref": "master",
       "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
       "name": "linc_luajit",
       "type": "git",
-      "dir": null,
       "ref": "master",
       "url": "https://github.com/superpowers04/linc_luajit"
     }
